@@ -1,0 +1,7 @@
+language: python
+install: pip install pre-commit
+script: pre-commit run --all-files --show-diff-on-failure
+cache:
+    directories:
+        - $HOME/.cache/pip
+        - $HOME/.cache/pre-commit
