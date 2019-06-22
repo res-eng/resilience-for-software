@@ -1,0 +1,17 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v2.2.3
+  hooks:
+    - id: check-merge-conflict
+    - id: end-of-file-fixer
+    - id: trailing-whitespace
+- repo: https://github.com/prettier/prettier
+  rev: 1.18.2
+  hooks:
+    - id: prettier
+      files: .*\.md
+      args: [--prose-wrap, always, --print-width, "88"]
+- repo: https://github.com/thlorenz/doctoc
+  rev: v1.4.0
+  hooks:
+  - id: doctoc
