@@ -5,7 +5,7 @@
 
 
 - [resilience-for-software](#resilience-for-software)
-  - [Why should I invest my time in learning about resilience engineering?](#why-should-i-invest-my-time-in-learning-about-resilience-engineering)
+  - [What's the return on investing time in learning about resilience engineering?](#whats-the-return-on-investing-time-in-learning-about-resilience-engineering)
   - [Where do I start? What is resilience engineering?](#where-do-i-start-what-is-resilience-engineering)
   - [What is the relationship between resilience engineering and DevOps/SRE?](#what-is-the-relationship-between-resilience-engineering-and-devopssre)
   - [I’m intrigued, what’s next?](#im-intrigued-whats-next)
@@ -20,7 +20,7 @@
 The intent of this document is to provide a lightweight introduction to and motivate
 further engagement with resilience engineering through a “narrative FAQ”.
 
-## Why should I invest my time in learning about resilience engineering?
+## What's the return on investing time in learning about resilience engineering?
 
 If failures of complex systems (e.g., incidents) are substantially impacting the
 sustainability of your systems, the happiness of your engineers, your ability to meet
