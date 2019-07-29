@@ -40,8 +40,9 @@ by John Allspaw.
 ## What is the relationship between resilience engineering and DevOps/SRE?
 
 This is a complex question without a lightweight answer. We recommend reading the
-introduction and conclusion of [Accelerate](https://itrevolution.com/book/accelerate/)
-by Nicole Forsgren PhD, Jez Humble, and Gene Kim and
+preface and conclusion chapters (of course, more if you're inspired) of
+[Accelerate](https://itrevolution.com/book/accelerate/) by Nicole Forsgren PhD, Jez
+Humble, and Gene Kim and
 [Sustainable Operations in Complex Systems with Production Excellence](https://www.infoq.com/articles/production-excellence-sustainable-operations-complex-systems/)
 by Liz Fong-Jones, and comparing the perspectives there with those of Cook and Allspaw
 expressed in the resources linked above.
