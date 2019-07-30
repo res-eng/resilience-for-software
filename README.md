@@ -60,7 +60,7 @@ Nora Jones also runs a resilience engineering focused Slack Community,
 
 Your options include
 
-1. Open a PR or issue on this repo
+1. Open an issue on this repo
 1. Reaching out to [Lorin Hochstein](https://twitter.com/lhochstein),
    [Jacob Scott](https://twitter.com/jhscott), or others in the resilience engineering
    community on Twitter
