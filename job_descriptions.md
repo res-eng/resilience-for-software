@@ -18,5 +18,5 @@ of. This list is not intended an endorsement of the included positions (which ma
 been filed) or organizations, but as a source of data for how resilience is discussed in
 software industry job postings.
 
-- [Senior Resilience Engineering Advocate at Netflix](https://www.linkedin.com/jobs/view/sr-resilience-engineering-advocate-at-netflix-1222215926/)
-- [Sr. Program Manager, Modernize Incident Reviews at Microsoft Azure](https://www.linkedin.com/jobs/view/sr-program-manager-at-microsoft-1414610007/)
+- [Senior Resilience Engineering Advocate at Netflix](https://web.archive.org/web/20190831145439/https://www.linkedin.com/jobs/view/sr-resilience-engineering-advocate-at-netflix-1222215926/)
+- [Sr. Program Manager, Modernize Incident Reviews at Microsoft Azure](https://web.archive.org/web/20190831145441/https://www.linkedin.com/jobs/view/sr-program-manager-at-microsoft-1414610007/)
